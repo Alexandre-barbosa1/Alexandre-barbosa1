@@ -32,30 +32,6 @@ Curioso por tecnologia, gosto de entender o "porquê" das coisas e estou sempre 
 </div>
 
 ---
-
-### 📌 Alguns projetos
-
-- 🛫 **GAV Milhas** — sistema acadêmico de gerenciamento de milhas aéreas (Projeto Integrador)
-- 🎮 **Jogo por gestos** — jogo controlado por movimento de cabeça e piscar de olhos, feito para uma disciplina de IHC
-- 🤖 **Bot de desafios Java via WhatsApp** — automação em n8n que envia desafios diários de Java
-
----
-
-### 📊 Estatísticas no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Alexandre-barbosa1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-barbosa1&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandre-barbosa1&theme=tokyonight&hide_border=true" width="49%" />
-
-</div>
-
----
-
-<div align="center">
-
 💡 Aberto a projetos, trocas de conhecimento e boas conversas sobre tecnologia.
 
 </div>
